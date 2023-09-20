@@ -1,6 +1,6 @@
 # HIDDEN PIECE
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/bc9cf7ff-1dd9-472f-bc95-da8d778afc1c" width=300>
+<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/d453dc29-341f-404b-a2ea-4aaaae619181" width=300>
 
 ## HIDDEN PIECE Web Page v1.0
 
@@ -15,7 +15,7 @@
 
 |대장|부끄러운 질문봇|건강관리사|치어리더|구글링 고수|
 |:--:|:--:|:-:|:-:|:-:|
-|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/95e8dae3-903a-4c01-abb6-3eb2e399622e" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/1f8d213c-598f-45e1-a49e-c6608c7ea405" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/b3c06e39-3f39-4015-b809-e7e1bb2d9a1d" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/a157c6b9-85a7-4897-8666-258bf44119ea" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/62f5059c-fbb1-4b89-a0a1-0b51b7aaa01b" width=300>|
+|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/cc86e98a-86ae-4d7f-b16d-53c58c997d39" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/e1c3d50c-3051-411e-8251-edc0254cda3f" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/e281c97e-3bb1-4e11-87e8-e058d72adace" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/f36e5965-091d-4816-8d04-bb20b48eaced" width=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/3fa32264-5d00-441f-8937-3c1a28d99e9d" width=300>|
 |[↗️김영근](https://github.com/panorama713)|[↗️권선녀](https://github.com/sssssn)|[↗️장영조](https://github.com/Jyoungjo)|[↗️최경환](https://github.com/damsul)|[↗️서지원](https://github.com/mechuri)|
 |로드맵 페이지|회원가입, 커뮤니티 페이지|로그인, 메인, 마이 페이지, 인프라 구축|로드맵 페이지|커뮤니티, 마이 페이지, 유저프로필|
 
@@ -91,13 +91,13 @@ $ cd Final_Project_6team
 
 |메인 페이지|마이 페이지|
 |:--:|:--:|
-|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/d6c1b269-aed9-4aa5-9328-092c07cf021e" width=500 height=200>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/7e14c400-4f08-4085-a305-ed10d3bee8e3" width=500 height=200>|
+|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/36fff877-1de5-42c6-b553-27f42d29f507" width=500 height=200>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/d6b955b4-ab9d-47ec-84ae-031773d2a050" width=500 height=200>|
 |로드맵 페이지|로드맵 상세 페이지|
-|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/c203b382-89ec-437d-9c3a-eb02481273c9" width=500 height=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/68c4f18d-995c-42fe-96a7-b2a9da67b22a" width=500 height=300>|
+|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/c97a7090-c667-4cf0-be49-0adc76ba55f7" width=500 height=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/bb3b246f-2f63-4bcd-b2b4-f3e70c0051bd" width=500 height=300>|
 |커뮤니티 페이지|커뮤니티 상세 페이지|
-|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/80596802-2015-4e37-9c45-03cb98ee708b" width=500 height=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/d70ef7d8-a168-4ae0-a470-8597c61a4a94" width=500 height=300>|
+|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/9475572c-4886-4e75-97d7-85c1a54d1d50" width=500 height=300>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/acb49647-7764-48aa-b1b3-c16db59d16cb" width=500 height=300>|
 |회원가입 페이지|로그인 페이지|
-|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/8fdbacf4-68b2-428c-b195-11ab66097696" width=500 height=400>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/0495e1a4-40ee-4162-93e9-940f78b88cb8" width=500 height=400>|
+|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/7da6508e-2b5c-4bae-9eb0-c920eb9f0378" width=500 height=400>|<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/43484be5-c67f-41f1-bc56-30b72db8aa5e" width=500 height=400>|
 
 ---
 ## 주요 기능
@@ -132,21 +132,21 @@ $ cd Final_Project_6team
 
 ### 서비스 아키텍처
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/3eef2152-93ba-4519-a709-1e797d2d1170" width=600>
+<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/a9ebd225-71ef-4b27-8adc-27e7ef8cc034" width=600>
 
 ### ERD
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/e587e34e-ff4f-4c27-9d5a-2163eeb1a34d" width=600>
+<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/e71b46d3-785b-4cd2-9765-ec607672ae28" width=600>
 
 ### 그 외
 
 [↗️Notion: Workspace](https://www.notion.so/sssssn/v1-0-91548bf5d2e04809bd8f89b758503388)
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/ca61c1b3-e961-4507-ab97-1b5be63fe002"> </br>
+<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/0267cd90-0428-4a3b-9238-ec6c0c5a2d39"> </br>
 
 [↗️Swagger: API Documentation](https://hidden-piece.kro.kr/swagger-ui/index.html)
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/aaae0f67-bea2-40e3-befc-29449a2a8418">
+<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/e6c2efa4-2642-458e-9966-d4b1fb6727ab">
 
 ### 디렉토리 구조
 
